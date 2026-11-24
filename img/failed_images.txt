@@ -1,0 +1,10 @@
+# Failed image downloads (manual review needed)
+# Format: prompt_id | title | category | url | reason
+
+a06 | Old Delhi Kurta - Spice Market Gali | Traditional | LINK | no_url
+di73 | Executive Arrival — White Traditional Look | Islami Premium Portraits | https://files.catbox.moe/moba1j.webp | timeout
+di82 | Desert Sultan — White Imama Editorial | Islami Premium Portraits | https://files.catbox.moe/c5hpb6.webp | timeout
+di84 | Minimalist Rooftop — Modern Traditional Style | Islami Premium Portraits | https://files.catbox.moe/lv70to.webp | timeout
+di87 | Coastal Cliffs — Wind and White Fabric | Islami Premium Portraits | https://files.catbox.moe/5xzg4c.webp | timeout
+di114 | Cream Shalwar Kameez — Five-Star Hotel Entrance | Ultra Realistic Rich Lifestyle | https://i.ibb.co/mCR60m5s/image-20261016-174653.webp | conn_error
+di121 | Royal Blue Shalwar Kameez — Hilltop Luxury Resort | Ultra Realistic Rich Lifestyle | https://i.ibb.co/jZRqJBMg/image-20261016-174719-1.webp | conn_error

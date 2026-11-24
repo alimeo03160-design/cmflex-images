@@ -1,0 +1,12 @@
+{
+  "total_prompts": 440,
+  "unique_urls": 437,
+  "downloaded_ok": 433,
+  "failed": 7,
+  "output_dir": "/home/z/my-project/download/cmflex_images",
+  "csv_path": "/home/z/my-project/download/cmflex_images/image_mapping.csv",
+  "failed_path": "/home/z/my-project/download/cmflex_images/failed_images.txt",
+  "dart_v2_path": "/home/z/my-project/download/builtin_prompts_v2.dart",
+  "r2_url_template": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USER/cmflex-images@main/img/{filename}",
+  "next_step": "Replace {R2_BUCKET_HOST} in builtin_prompts_v2.dart with your R2 bucket pub-XXXX.r2.dev host"
+}
